@@ -9,6 +9,7 @@ If for the same satellite there are three battery voltage readings that are unde
 If for the same satellite there are three thermostat readings that exceed the red high limit within a five minute interval.
 
 Input
+
 20180101 23:01:05.001|1001|101|98|25|20|99.9|TSTAT
 20180101 23:01:09.521|1000|17|15|9|8|7.8|BATT
 20180101 23:01:26.011|1001|101|98|25|20|99.8|TSTAT
@@ -25,6 +26,7 @@ Input
 20180101 23:05:07.421|1001|17|15|9|8|7.9|BATT
 
 Ouput
+
 [
     {
         "satelliteId": 1000,
